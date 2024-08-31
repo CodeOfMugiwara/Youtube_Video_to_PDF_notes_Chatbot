@@ -1,11 +1,4 @@
-# create_readme.py
-
-readme_content = """
-# YouTube Video to PDF Notes Chatbot
-
-![Project Logo](path/to/logo.png) *(Optional: Add your project logo)*
-
-## Table of Contents
+# Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
